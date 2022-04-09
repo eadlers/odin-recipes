@@ -46,3 +46,21 @@ li a:hover {
     background: #111111;
   }
 
+.return {
+    display: inline-block;
+    margin: 0;
+    padding: 3px;
+    overflow: hidden;
+    background-color: #D91023;
+    position: static;
+}
+
+.return:hover {
+    background: rgb(165, 20, 20);
+}
+
+.return:visited {
+    text-decoration: none;
+    color: white;
+}
+
